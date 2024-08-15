@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../Sunnyvale skill"
+		},
+		{
+			"path": "../../calm"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sunnyvale skill"
+	}
+}
