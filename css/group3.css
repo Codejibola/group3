@@ -71,3 +71,38 @@ h3{
     grid-template-columns: 0.5fr 1fr;
     margin-top: 50px;
 }
+
+@media screen and (max-width: 600px) {
+    .header {
+      padding: 4rem 2rem;
+    }
+  
+    .body {
+      padding: 1rem 1.75rem;
+      width: 100%;
+    }
+  
+    .feet {
+      width: 20px;
+      height: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .header {
+      padding: 4rem 1rem;
+    }
+  
+    h1 {
+      font-size: 18px;
+    }
+  
+    .body {
+      margin-top: 2rem;
+    }
+  
+    .feet {
+      width: "100%";
+      margin: 1rem;
+    }
+  }
